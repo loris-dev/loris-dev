@@ -5,10 +5,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/elrFAUtV7ZOH7TSPhF/200w.gif?cid=6c09b952rb5htjauk3ccvv430lbmne801i4i4qzfj9np683d&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
