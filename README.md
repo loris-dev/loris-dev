@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=loris-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=loris-dev&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@aquariophilelyonnais794" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -41,14 +41,17 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=loris-dev&label=Profile%20views&color=0e75b6&style=flat" alt="loris-dev" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=loris-dev&label=Profile%20views&color=0e75b6&style=flat" alt="loris-dev" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/loris-dev/loris-dev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/loris-dev/loris-dev/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
